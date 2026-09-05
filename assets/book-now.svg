@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="51" viewBox="0 0 138 51">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="138" height="51" fill="#00CBE6" rx="25.5"/>
+    <text fill="#FFFFFF" font-family="Roboto-Medium, Roboto, sans-serif" font-size="16" font-weight="400">
+      <tspan x="32" y="31">Book Now</tspan>
+    </text>
+  </g>
+</svg>
